@@ -21,7 +21,7 @@ resources:
 - mysql-service.yaml
 - mysql-statefulset.yaml
 - nginx-deployment.yaml
-#- nginx-route.yaml
+- nginx-route.yaml
 - nginx-service.yaml
 - redis-configmap.yaml
 - redis-service.yaml
